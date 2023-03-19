@@ -1,6 +1,6 @@
 <?php
 
-$voterAge = 19;
+$voterAge = 18;
 $voterHasPVC = true;
 $voterWard = 020;
 
