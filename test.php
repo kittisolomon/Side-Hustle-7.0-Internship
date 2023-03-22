@@ -1,5 +1,5 @@
 <?php
 
-echo "This is a test script";
+echo "This is a gitHub command test script";
 
 ?>
