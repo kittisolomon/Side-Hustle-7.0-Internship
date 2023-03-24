@@ -1,14 +1,14 @@
-<?php 
+<?php
 
-$db_con = mysqli_connect("localhost","root","","sidehustle");
+$db_con = mysqli_connect("localhost", "root", "", "sidehustle");
 
-if($db_con){
-	
-	echo "database connected succefully";
+if ($db_con) {
 
-}else{
+    echo "database connected succefully";
 
-	die("Cannot connect to databse".mysqli_error($db_con));
+} else {
+
+    die("Cannot connect to databse" . mysqli_error($db_con));
 
 }
 
